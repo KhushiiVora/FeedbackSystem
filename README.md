@@ -101,7 +101,7 @@ This separation of concerns helps maintain clarity, scalability, and ease of deb
 
 ## 🤖 AI Assistance Transparency
 
-Parts of the backend logic were written with the help of AI tools like ChatGPT. As a beginner in FastAPI, I used AI support to understand the framework better and implement the initial routes and logic efficiently. All AI-assisted code was carefully reviewed and adapted to meet the project’s requirements.
+Parts of the backend logic were written with the help of AI tools. As a beginner in FastAPI, I used AI support to understand the framework better and implement the initial routes and logic efficiently. All AI-assisted code was carefully reviewed and adapted to meet the project’s requirements.
 
 ---
 
@@ -112,7 +112,7 @@ Parts of the backend logic were written with the help of AI tools like ChatGPT. 
 Coming Soon
 
 ---
-
+<!-- >
 ## 📄 License
 
-This project is for educational and demonstration purposes.
+This project is for educational and demonstration purposes. -->
