@@ -1,0 +1,38 @@
+.form-container {
+  width: 100vw;
+  height: 100%;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.form {
+  display: flex;
+  border: 1px solid #12acff;
+  border-radius: 2rem;
+  padding: 5rem;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+.form p {
+  text-align: center;
+}
+
+/* .form button {
+  font-size: 1.1rem;
+  font-weight: 400;
+  padding: 1rem;
+  outline: none;
+  border-radius: 1rem;
+  background: transparent;
+  transition: all 0.5s ease;
+}
+
+.form button:hover {
+  background: #12acff;
+  transform: translateY(-2px);
+}
+
+.form button:active {
+  transform: translateY(2px);
+} */

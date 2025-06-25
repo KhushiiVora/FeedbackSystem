@@ -1,0 +1,22 @@
+.home-container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(to bottom, #000000c3, #000000c3),
+    url("/homeBg.avif");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.home-content {
+  width: 50%;
+  color: #73cefe;
+  text-align: center;
+}
+
+.home-content p {
+  color: rgb(206, 206, 206);
+}
