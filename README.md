@@ -99,17 +99,13 @@ This separation of concerns helps maintain clarity, scalability, and ease of deb
 
 ---
 
-## 🤖 AI Assistance Transparency
-
-Parts of the backend logic were written with the help of AI tools. As a beginner in FastAPI, I used AI support to understand the framework better and implement the initial routes and logic efficiently. All AI-assisted code was carefully reviewed and adapted to meet the project’s requirements.
+Use of AI Assistance: Parts of the backend logic were written with the help of AI tools. As a beginner in FastAPI, I used AI support to understand the framework better and implement the initial routes and logic efficiently. All AI-assisted code was carefully reviewed and adapted to meet the project’s requirements.
 
 ---
 
 ## 🌐 Public URL
 
-<!-- > 🔗 [Live Demo](YOUR_PUBLIC_URL_HERE) -->
-
-Coming Soon
+🔗 [Live Demo](https://feedback-kv.netlify.app/)
 
 ---
 <!-- >
